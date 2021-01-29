@@ -1,0 +1,18 @@
+<?xml version="1.0"?> 
+<GPS_DATA> 
+	<staff>
+		<id>1</id> 
+		<lat>17.67173</lat> 
+		<long>83.21803</long> 
+	</staff> 
+	<staff>
+		<id>2</id> 
+		<lat>18.67173</lat> 
+		<long>84.21803</long> 
+	</staff> 
+	<staff>
+		<id>3</id> 
+		<lat>19.67173</lat> 
+		<long>85.21803</long> 
+	</staff> 
+</GPS_DATA> 
