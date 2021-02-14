@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<atlas version="1" name="Unnamed atlas" outputFormat="Osmdroid">
+    <Layer name="Layer">
+        <Map maxTileCoordinate="767/511" minTileCoordinate="512/256" mapSource="OSMPublicTransport" zoom="2" name="Layer 02"/>
+        <Map maxTileCoordinate="1535/1023" minTileCoordinate="1280/768" mapSource="OSMPublicTransport" zoom="3" name="Layer 03"/>
+        <Map maxTileCoordinate="3071/1791" minTileCoordinate="2816/1536" mapSource="OSMPublicTransport" zoom="4" name="Layer 04"/>
+        <Map maxTileCoordinate="5887/3583" minTileCoordinate="5632/3328" mapSource="OSMPublicTransport" zoom="5" name="Layer 05"/>
+        <Map maxTileCoordinate="11775/6911" minTileCoordinate="11520/6656" mapSource="OSMPublicTransport" zoom="6" name="Layer 06"/>
+        <Map maxTileCoordinate="23551/13823" minTileCoordinate="23296/13568" mapSource="OSMPublicTransport" zoom="7" name="Layer 07"/>
+        <Map maxTileCoordinate="46847/27391" minTileCoordinate="46592/27136" mapSource="OSMPublicTransport" zoom="8" name="Layer 08"/>
+        <Map maxTileCoordinate="93695/54783" minTileCoordinate="93440/54528" mapSource="OSMPublicTransport" zoom="9" name="Layer 09"/>
+        <Map maxTileCoordinate="187391/109567" minTileCoordinate="187136/109312" mapSource="OSMPublicTransport" zoom="10" name="Layer 10"/>
+        <Map maxTileCoordinate="374783/218879" minTileCoordinate="374528/218624" mapSource="OSMPublicTransport" zoom="11" name="Layer 11"/>
+        <Map maxTileCoordinate="749311/437759" minTileCoordinate="749056/437248" mapSource="OSMPublicTransport" zoom="12" name="Layer 12"/>
+        <Map maxTileCoordinate="1498367/875263" minTileCoordinate="1498112/874752" mapSource="OSMPublicTransport" zoom="13" name="Layer 13"/>
+        <Map maxTileCoordinate="2996735/1750271" minTileCoordinate="2996224/1749760" mapSource="OSMPublicTransport" zoom="14" name="Layer 14"/>
+        <Map maxTileCoordinate="5993471/3500287" minTileCoordinate="5992448/3499520" mapSource="OSMPublicTransport" zoom="15" name="Layer 15"/>
+        <Map maxTileCoordinate="11986687/7000319" minTileCoordinate="11985152/6999040" mapSource="OSMPublicTransport" zoom="16" name="Layer 16"/>
+    </Layer>
+</atlas>
