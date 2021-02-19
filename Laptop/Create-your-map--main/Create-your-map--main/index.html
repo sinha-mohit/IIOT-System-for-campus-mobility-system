@@ -78,7 +78,7 @@
 
         map.attributionControl.addAttribution(
             '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors & Develop by &copy; <a href="https://edafait.com/">walid abdelazeem</a>'
-            );
+        );
 
 
         L.tileLayer('iitd/{z}/{x}/{y}.png', {
@@ -113,11 +113,11 @@
             iconUrl: 'Marker/leaf-green.png'
         });
 
-        L.marker([28.54518292475018, 77.19260694020613], {
-                icon: greenIcon
-            }).addTo(map)
-            .bindPopup("<b>Hello world!</b><br />I am a popup in EGYPT <br /> <img src='Marker/leaf-green.png' />.")
-            .openPopup();
+        // L.marker([28.54518292475018, 77.19260694020613], {
+        //         icon: greenIcon
+        //     }).addTo(map)
+        //     .bindPopup("<b>Hello world!</b><br />I am a popup in EGYPT <br /> <img src='Marker/leaf-green.png' />.")
+        //     .openPopup();
 
 
 
@@ -142,6 +142,19 @@
                 icon: markers_icon
             }).addTo(map)
             .bindPopup("<h1>I am a popup in IITD.</h1>").openPopup();
+
+
+        L.marker([28.545767251100933, 77.18771459090483], {
+                icon: markers_icon
+            }).addTo(map)
+            .bindPopup("<h1>Driver Mohit Sinha.</h1>").openPopup();
+
+        L.marker([28.545748401903655, 77.19636203295117], {
+                icon: markers_icon
+            }).addTo(map)
+            .bindPopup("<h1>Batchu Customer .</h1>").openPopup();
+
+
 
         //        var icon = L.Icon.Label.extend({
         //    options: {
